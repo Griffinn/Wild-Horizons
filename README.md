@@ -3,6 +3,7 @@ Wild Horizons is an API built for curious travelers who want to go beyond the us
 
 <br>
 
+<p align = "center">
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -18,7 +19,7 @@ Wild Horizons is an API built for curious travelers who want to go beyond the us
 ![Style](https://img.shields.io/badge/Aesthetic-API-DB7093?style=for-the-badge&logo=github)
 ![Nature](https://img.shields.io/badge/Green_Tech-2E8B57?style=for-the-badge&logo=tree)
 ![Status](https://img.shields.io/badge/Status-Sparkling-FF69B4?style=for-the-badge&logo=star)
-
+</p>
 <br>
 
 ![Door To Hell,Darvaza,Turkmenistan](assets/DoorToHell.jpg)
