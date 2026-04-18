@@ -13,6 +13,16 @@ Wild Horizons is an API built for curious travelers who want to go beyond the us
 ![Code](https://img.shields.io/badge/Logic-AEC6CF?style=for-the-badge&logo=javascript&logoColor=white)
 ![Design](https://img.shields.io/badge/Biophilic_Vibes-77DD77?style=for-the-badge&logo=leaf&logoColor=white)
 ![Fun](https://img.shields.io/badge/Hidden_Gems-FFB7B2?style=for-the-badge&logo=sparkles&logoColor=white)
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black)
+![Travel](https://img.shields.io/badge/Wild_Horizons-FF8C00?style=for-the-badge&logo=adventure&logoColor=white)
+![Vibe](https://img.shields.io/badge/Main_Character_Energy-FF1493?style=for-the-badge&logo=heart)
+<br>
+![Tech](https://img.shields.io/badge/Built_with_Love-C71585?style=for-the-badge&logo=node.js&logoColor=white)
+![Style](https://img.shields.io/badge/Aesthetic-API-DB7093?style=for-the-badge&logo=github)
+![Nature](https://img.shields.io/badge/Green_Tech-2E8B57?style=for-the-badge&logo=tree)
+![Status](https://img.shields.io/badge/Status-Sparkling-FF69B4?style=for-the-badge&logo=star)
 
 ## Project Overview
 Wild Horizons is a minimalist yet powerful REST-style API that lets you discover some of the world's most unusual, breathtaking, and mysterious destinations. From glowing caves to forbidden islands, this API is designed for exploration, curiosity, and storytelling. Built using pure Node.js (no frameworks) to showcase strong fundamentals and clean architecture. Instead of generic tourist data, this API focuses on:
