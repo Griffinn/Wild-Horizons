@@ -19,6 +19,8 @@ Wild Horizons is an API built for curious travelers who want to go beyond the us
 ![Nature](https://img.shields.io/badge/Green_Tech-2E8B57?style=for-the-badge&logo=tree)
 ![Status](https://img.shields.io/badge/Status-Sparkling-FF69B4?style=for-the-badge&logo=star)
 
+<br>
+
 ![Door To Hell,Darvaza,Turkmenistan](assets/DoorToHell.jpg)
 
 ## Project Overview
