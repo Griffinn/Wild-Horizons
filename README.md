@@ -65,7 +65,7 @@ git clone https://github.com/your-username/wild-horizons.git
 cd wild-horizons
 ```
 
-**2. Install dependencies:** <br>
+**2. Install dependencies:** <br><br>
 Even though the project is lightweight, it’s good practice to install dependencies:
  ```bash
 npm install
@@ -76,7 +76,7 @@ npm install
 npm start
 ```
 
-**4. Access the API:** <br>
+**4. Access the API:** <br><br>
 Once the server is running, you can access it at:
  ```bash
 http://localhost:8000
