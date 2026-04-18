@@ -61,7 +61,7 @@ Getting the API up and running locally is straightforward. Since the project use
 
 **1. Clone the repository:** 
  ```bash
-git clone https://github.com/your-username/wild-horizons.git
+git clone https://github.com/Griffinn/Wild-Horizons.git
 cd wild-horizons
 ```
 
@@ -97,8 +97,6 @@ This endpoint returns all destinations by default. You can optionally apply filt
 ```bash
 /api?continent=asia&is_open_to_public=true
 ```
-
----
 
 ####  Supported Query Parameters:
 
