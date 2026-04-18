@@ -3,6 +3,7 @@ Wild Horizons is an API built for curious travelers who want to go beyond the us
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Maintained-brightgreen?style=for-the-badge)
 ![Category](https://img.shields.io/badge/Travel-Discovery-orange?style=for-the-badge)
 
