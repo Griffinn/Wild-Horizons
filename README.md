@@ -108,20 +108,17 @@ This endpoint returns all destinations by default. You can optionally apply filt
 
 You can combine multiple parameters to refine your results.
 
----
-
 ### 2. Filter by Continent
 ```bash
 GET /api/continent/:continent
 ```
-
 Returns all destinations within a specific continent.
 
 #### Example:
 ```bash
 /api/continent/asia
 ```
----
+
 
 ### 3. Filter by Country
 ```bash
@@ -134,18 +131,16 @@ Returns all destinations within a specific country.
 /api/country/india
 ```
 
----
 
 ### 4. Invalid Routes
-
 Any route that does not match the above patterns will return:
-
 ```json
 {
   "error": "not found",
   "message": "The requested route does not exist"
 }
 ```
+
 
 ### Example Response
 ```json
