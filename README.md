@@ -83,4 +83,40 @@ http://localhost:8000
 ```
 You can test endpoints directly in your browser or use tools like Postman.
 
+## 📡 API Endpoints
+
+The Wild Horizons API provides a simple and flexible way to explore destinations using both **path parameters** and **query parameters**.
+
+---
+
+### 1. Get All Destinations (with optional filters)
+
+This endpoint returns all destinations by default. You can optionally apply filters using query parameters.
+
+#### 1. Get All Destinations (with optional filters):
+```bash
+GET /api
+```
+This endpoint returns all destinations by default. You can optionally apply filters using query parameters.
+
+**Example:**
+```bash
+/api?continent=asia&is_open_to_public=true
+```
+
+#### Supported Query Parameters:
+
+| Parameter            | Type    | Description                                  |
+|---------------------|--------|----------------------------------------------|
+| `continent`           | string | Filter by continent (e.g., asia, europe)     |
+| `country`           | string | Filter by country (e.g., india, usa)         |
+| `is_open_to_public`   | boolean | Filter by accessibility (true / false)       |
+
+You can combine multiple parameters to refine your results.
+
+---
+
+### 🌏 2. Filter by Continent
+
+
 
