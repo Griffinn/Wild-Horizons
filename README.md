@@ -83,11 +83,8 @@ http://localhost:8000
 ```
 You can test endpoints directly in your browser or use tools like Postman.
 
-## 📡 API Endpoints
-
+## API Endpoints
 The Wild Horizons API provides a simple and flexible way to explore destinations using both **path parameters** and **query parameters**.
-
----
 
 ### 1. Get All Destinations (with optional filters)
 
@@ -99,12 +96,12 @@ GET /api
 ```
 This endpoint returns all destinations by default. You can optionally apply filters using query parameters.
 
-**Example:**
+#### Example:
 ```bash
 /api?continent=asia&is_open_to_public=true
 ```
 
-#### Supported Query Parameters:
+####  Supported Query Parameters:
 
 | Parameter            | Type    | Description                                  |
 |---------------------|--------|----------------------------------------------|
@@ -116,7 +113,67 @@ You can combine multiple parameters to refine your results.
 
 ---
 
-### 🌏 2. Filter by Continent
+### 2. Filter by Continent
+```bash
+GET /api/continent/:continent
+```
+
+Returns all destinations within a specific continent.
+
+#### Example:
+```bash
+/api/continent/asia
+```
+---
+
+### 3. Filter by Country
+```bash
+GET /api/country/:country
+```
+Returns all destinations within a specific country.
+
+#### Example:
+```bash
+/api/country/india
+```
+
+---
+
+### 4. Invalid Routes
+
+Any route that does not match the above patterns will return:
+
+```json
+{
+  "error": "not found",
+  "message": "The requested route does not exist"
+}
+```
+
+### Example Response
+```json
+[
+  {
+    "name": "Magnetic Hill",
+    "location": "Ladakh",
+    "country": "India",
+    "continent": "Asia",
+    "is_open_to_public": true,
+    "details": [
+      {
+        "fun_fact": "Vehicles appear to roll uphill due to an optical illusion."
+      },
+      {
+        "description": "A perplexing stretch of road in the Himalayas where gravity seemingly takes a puzzling turn."
+      }
+    ],
+    "uuid": "550e8400-e29b-41d4-a716-446655440015"
+  }
+]
+```
+---
+
+
 
 
 
