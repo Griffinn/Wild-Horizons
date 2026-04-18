@@ -187,6 +187,21 @@ wild-horizons/
 ├── package.json
 ```
 
+## Architecture Overview
+
+The project follows a modular structure:
+
+* `Data Layer` → `static JSON dataset`
+* `Database Layer` → `abstraction (getDataFromDB)`
+* `Utility Layer` → `reusable filtering functions`
+* `Server Layer` → `request handling and routing`
+
+This makes it easy to:
+
+* swap JSON → real database later
+* extend filtering logic
+* scale routes cleanly
+
 
 
 
