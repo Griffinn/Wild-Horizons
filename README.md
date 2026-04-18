@@ -202,6 +202,13 @@ This makes it easy to:
 * extend filtering logic
 * scale routes cleanly
 
+## Future Improvements
+* Add endpoint: `/api/:uuid`
+* Sorting (`?sort=name`)
+* Pagination (`?limit=5`)
+* Integrate a real database (MongoDB / PostgreSQL)
+* Smarter filtering (multiple values, ranges)
+
 
 
 
