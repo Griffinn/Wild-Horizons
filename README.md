@@ -1,4 +1,4 @@
-#🌍Wild Horizons API
+# 🌍Wild Horizons API
 Wild Horizons is an API built for curious travelers who want to go beyond the usual tourist spots. Instead of the same crowded landmarks, it helps you discover unique, lesser-known places across the world — from glowing caves and surreal landscapes to remote islands and hidden natural wonders.
 
 ## Project Overview
@@ -8,7 +8,7 @@ Wild Horizons is a minimalist yet powerful REST-style API that lets you discover
 * restricted & mysterious locations 
 * surreal landscapes 
 
-##⚙️ Features
+## ⚙️ Features
 Instead of focusing on overused tourist destinations, it highlights places that are unusual, visually striking, or simply less talked about — the kind of locations that spark curiosity. At the same time, the API is designed to be flexible and practical, so it can be used in real applications like travel planners, discovery platforms, or even storytelling tools.
 
 Some of the key capabilities include:
@@ -42,7 +42,7 @@ making it easier to maintain and extend.
 * **Ready for future expansion**
 Even though it currently uses static JSON data, the architecture is designed so it can be easily connected to a real database later without major changes.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 The project uses a minimal but purposeful tech stack, focusing on understanding core backend concepts rather than relying on heavy frameworks. At its heart, Wild Horizons is built using Node.js with the native HTTP module, which means everything — from routing to response handling — is implemented manually. This gives deeper insight into how APIs actually work under the hood. Here’s a closer look at the stack:
 
