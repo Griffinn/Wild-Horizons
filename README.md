@@ -10,33 +10,33 @@ Instead of focusing on overused tourist destinations, it highlights places that 
 
 Some of the key capabilities include:
 
-* **Curated global dataset**
+* **Curated global dataset:**
 A thoughtfully selected collection of unique places around the world — from glowing caves and volcanic craters to restricted islands and natural illusions.
 
-* **Flexible filtering system**
+* **Flexible filtering system:** 
 Users can filter destinations based on:
-* `country`
-* `continent`
-* public accessibility (`is_open_to_public`)
+  * `country`
+  * `continent`
+  * public accessibility (`is_open_to_public`)
 This makes it easy to narrow down results depending on travel preferences or constraints.
 
-## Dual filtering approach (Path + Query params)
+* **Dual filtering approach (Path + Query params):**
 The API supports both:
-* 1. path-based filtering (e.g., `/api/country/india`)
-* 2. query-based filtering (e.g., `/api?continent=asia&is_open_to_public=true`)
+  * 1. path-based filtering (e.g., `/api/country/india`)
+  * 2. query-based filtering (e.g., `/api?continent=asia&is_open_to_public=true`)
 This combination allows for both simple and more refined searches.
 
-## Fast and lightweight responses
+* **Fast and lightweight responses:**
 Since the data is locally stored and efficiently filtered, responses are quick and consistent.
 
-## Modular and scalable design
+* **Modular and scalable design:**
 The project is structured in a way that separates:
-* data handling
-* filtering logic
-* response formatting
+  * data handling
+  * filtering logic
+  * response formatting
 making it easier to maintain and extend.
 
-## Ready for future expansion
+* **Ready for future expansion**
 Even though it currently uses static JSON data, the architecture is designed so it can be easily connected to a real database later without major changes.
 
 
