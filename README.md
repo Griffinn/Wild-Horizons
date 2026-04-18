@@ -1,7 +1,6 @@
 # Wild Horizons API
 Wild Horizons is an API built for curious travelers who want to go beyond the usual tourist spots. Instead of the same crowded landmarks, it helps you discover unique, lesser-known places across the world — from glowing caves and surreal landscapes to remote islands and hidden natural wonders.
 
-![Door To Hell,Darvaza,Turkmenistan](assets/DoorToHell.jpg)
 <br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,6 +18,8 @@ Wild Horizons is an API built for curious travelers who want to go beyond the us
 ![Style](https://img.shields.io/badge/Aesthetic-API-DB7093?style=for-the-badge&logo=github)
 ![Nature](https://img.shields.io/badge/Green_Tech-2E8B57?style=for-the-badge&logo=tree)
 ![Status](https://img.shields.io/badge/Status-Sparkling-FF69B4?style=for-the-badge&logo=star)
+
+![Door To Hell,Darvaza,Turkmenistan](assets/DoorToHell.jpg)
 
 ## Project Overview
 Wild Horizons is a minimalist yet powerful REST-style API that lets you discover some of the world's most unusual, breathtaking, and mysterious destinations. From glowing caves to forbidden islands, this API is designed for exploration, curiosity, and storytelling. Built using pure Node.js (no frameworks) to showcase strong fundamentals and clean architecture. Instead of generic tourist data, this API focuses on:
