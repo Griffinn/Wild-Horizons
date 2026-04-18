@@ -9,6 +9,10 @@ Wild Horizons is an API built for curious travelers who want to go beyond the us
 ![Architecture](https://img.shields.io/badge/Architecture-Modular-7C4DFF?style=for-the-badge)
 ![Data](https://img.shields.io/badge/Data-JSON-00ACC1?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-ISC-1976D2?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Pure_Node-B19CD9?style=for-the-badge&logo=node.js&logoColor=white)
+![Code](https://img.shields.io/badge/Logic-AEC6CF?style=for-the-badge&logo=javascript&logoColor=white)
+![Design](https://img.shields.io/badge/Biophilic_Vibes-77DD77?style=for-the-badge&logo=leaf&logoColor=white)
+![Fun](https://img.shields.io/badge/Hidden_Gems-FFB7B2?style=for-the-badge&logo=sparkles&logoColor=white)
 
 ## Project Overview
 Wild Horizons is a minimalist yet powerful REST-style API that lets you discover some of the world's most unusual, breathtaking, and mysterious destinations. From glowing caves to forbidden islands, this API is designed for exploration, curiosity, and storytelling. Built using pure Node.js (no frameworks) to showcase strong fundamentals and clean architecture. Instead of generic tourist data, this API focuses on:
