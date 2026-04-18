@@ -168,6 +168,25 @@ Any route that does not match the above patterns will return:
 ]
 ```
 
+## Project Structure
+```text
+wild-horizons/
+│
+├── data/
+│   └── data.js              # Static dataset
+│
+├── database/
+│   └── db.js               # Data access abstraction
+│
+├── utils/
+│   ├── getDataByPathParams.js
+│   ├── getDataByQueryParams.js
+│   └── sendJSONResponse.js
+│
+├── server.js               # Core server & routing logic
+├── package.json
+```
+
 
 
 
