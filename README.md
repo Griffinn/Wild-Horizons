@@ -1,11 +1,21 @@
 # Wild Horizons API
 Wild Horizons is an API built for curious travelers who want to go beyond the usual tourist spots. Instead of the same crowded landmarks, it helps you discover unique, lesser-known places across the world — from glowing caves and surreal landscapes to remote islands and hidden natural wonders.
+<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/API-REST-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Maintained-brightgreen?style=for-the-badge)
 ![Category](https://img.shields.io/badge/Travel-Discovery-orange?style=for-the-badge)
+<br>
+![Backend](https://img.shields.io/badge/Pure_Node-B19CD9?style=for-the-badge&logo=node.js&logoColor=white)
+![Code](https://img.shields.io/badge/Logic-AEC6CF?style=for-the-badge&logo=javascript&logoColor=white)
+![Design](https://img.shields.io/badge/Biophilic_Vibes-77DD77?style=for-the-badge&logo=leaf&logoColor=white)
+![Fun](https://img.shields.io/badge/Hidden_Gems-FFB7B2?style=for-the-badge&logo=sparkles&logoColor=white)
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black)
+![Travel](https://img.shields.io/badge/Wild_Horizons-FF8C00?style=for-the-badge&logo=adventure&logoColor=white)
+![Vibe](https://img.shields.io/badge/Main_Character_Energy-FF1493?style=for-the-badge&logo=heart)
 
 ## Project Overview
 Wild Horizons is a minimalist yet powerful REST-style API that lets you discover some of the world's most unusual, breathtaking, and mysterious destinations. From glowing caves to forbidden islands, this API is designed for exploration, curiosity, and storytelling. Built using pure Node.js (no frameworks) to showcase strong fundamentals and clean architecture. Instead of generic tourist data, this API focuses on:
