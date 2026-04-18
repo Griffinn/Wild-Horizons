@@ -14,9 +14,6 @@ Wild Horizons is an API built for curious travelers who want to go beyond the us
 ![Backend](https://img.shields.io/badge/Pure_Node-B19CD9?style=for-the-badge&logo=node.js&logoColor=white)
 ![Code](https://img.shields.io/badge/Logic-AEC6CF?style=for-the-badge&logo=javascript&logoColor=white)
 ![Design](https://img.shields.io/badge/Biophilic_Vibes-77DD77?style=for-the-badge&logo=leaf&logoColor=white)
-
-<br>
-
 ![Tech](https://img.shields.io/badge/Built_with_Love-C71585?style=for-the-badge&logo=node.js&logoColor=white)
 ![Style](https://img.shields.io/badge/Aesthetic-API-DB7093?style=for-the-badge&logo=github)
 ![Nature](https://img.shields.io/badge/Green_Tech-2E8B57?style=for-the-badge&logo=tree)
