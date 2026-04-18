@@ -98,6 +98,8 @@ This endpoint returns all destinations by default. You can optionally apply filt
 /api?continent=asia&is_open_to_public=true
 ```
 
+---
+
 ####  Supported Query Parameters:
 
 | Parameter            | Type    | Description                                  |
@@ -107,6 +109,8 @@ This endpoint returns all destinations by default. You can optionally apply filt
 | `is_open_to_public`   | boolean | Filter by accessibility (true / false)       |
 
 You can combine multiple parameters to refine your results.
+
+---
 
 ### 2. Filter by Continent
 ```bash
@@ -119,6 +123,7 @@ Returns all destinations within a specific continent.
 /api/continent/asia
 ```
 
+---
 
 ### 3. Filter by Country
 ```bash
@@ -131,6 +136,7 @@ Returns all destinations within a specific country.
 /api/country/india
 ```
 
+---
 
 ### 4. Invalid Routes
 Any route that does not match the above patterns will return:
