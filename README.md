@@ -5,15 +5,15 @@ Wild Horizons is a minimalist yet powerful REST-style API that lets you discover
 * restricted & mysterious locations 
 * surreal landscapes 
 
-# Features
+# ⚙️ Features
 Instead of focusing on overused tourist destinations, it highlights places that are unusual, visually striking, or simply less talked about — the kind of locations that spark curiosity. At the same time, the API is designed to be flexible and practical, so it can be used in real applications like travel planners, discovery platforms, or even storytelling tools.
 
 Some of the key capabilities include:
 
-## Curated global dataset
+* **Curated global dataset**
 A thoughtfully selected collection of unique places around the world — from glowing caves and volcanic craters to restricted islands and natural illusions.
 
-## Flexible filtering system
+* **Flexible filtering system**
 Users can filter destinations based on:
 * `country`
 * `continent`
@@ -38,3 +38,5 @@ making it easier to maintain and extend.
 
 ## Ready for future expansion
 Even though it currently uses static JSON data, the architecture is designed so it can be easily connected to a real database later without major changes.
+
+
