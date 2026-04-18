@@ -237,15 +237,17 @@ This makes it easy to:
 * Smarter filtering (multiple values, ranges)
 
 ## Screenshots/Demo
+#### 1. Path Params:
 ```bash
-GET /localhost:8000/api
+GET /localhost:8000/api/continent/africa
 ```
-<img src="assets/localhost_8000_api.png" width="800">
+<img src="assets/localhost_8000_api_continent_africa.png" width="600">
 
+#### 2. Query Params:
 ```bash
-GET /localhost:8000/api/kdkj
+GET /localhost:8000/api?country=norway&is_open_to_public=true
 ```
-<img src="assets/localhost_8000_api_kdkj.png" width="800">
+<img src="assets/localhost_8000_api_country=norway&is_open_to_public=true.png" width="600">
 
 
 
