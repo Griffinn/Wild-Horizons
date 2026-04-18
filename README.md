@@ -202,6 +202,8 @@ This makes it easy to:
 * extend filtering logic
 * scale routes cleanly
 
+**Data Flow:** `Client Request` → `Server (Route Handling)` → `Database Layer (getDataFromDB)` → `Filtering Logic (Path / Query)` → `Response Utility (sendJSONResponse)` → `Client Response (JSON)`
+
 ## Future Improvements
 * Add endpoint: `/api/:uuid`
 * Sorting (`?sort=name`)
