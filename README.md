@@ -50,9 +50,9 @@ The project uses a minimal but purposeful tech stack, focusing on understanding 
 * **ES Modules:** The codebase uses ES module syntax (import/export), helping keep files organized and the structure clean and maintainable.
 * **JSON:** A static JSON dataset is used to store destination information. It acts as a simple stand-in for a database while keeping development straightforward.
 * **Custom utility functions:** Instead of relying on libraries, filtering and response handling are implemented through custom utilities, which:
- * improve reusability
- * keep logic modular
- * make the code easier to understand and extend
+   * improve reusability
+   * keep logic modular
+   * make the code easier to understand and extend
 * **Abstracted data layer:** A small database abstraction (getDataFromDB) is included so that the current JSON-based setup can later be replaced with a real database like MongoDB or PostgreSQL with minimal changes.
 
 
