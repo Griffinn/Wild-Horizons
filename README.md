@@ -22,6 +22,26 @@ Wild Horizons is an API built for curious travelers who want to go beyond the us
 ![Status](https://img.shields.io/badge/Status-Sparkling-FF69B4?style=for-the-badge&logo=star)
 
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Maintained-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Category-Travel-discovery-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Modular-7C4DFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-JSON-00ACC1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-ISC-1976D2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pure_Node-B19CD9?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logic-AEC6CF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Biophilic_Vibes-77DD77?style=for-the-badge&logo=leaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Built_with_Love-C71585?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aesthetic-API-DB7093?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Green_Tech-2E8B57?style=for-the-badge&logo=tree" />
+  <img src="https://img.shields.io/badge/Status-Sparkling-FF69B4?style=for-the-badge&logo=star" />
+</p>
 <br>
 
 ![Door To Hell,Darvaza,Turkmenistan](assets/DoorToHell.jpg)
