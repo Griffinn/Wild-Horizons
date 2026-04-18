@@ -25,8 +25,6 @@ Wild Horizons is an API built for curious travelers who want to go beyond the us
 
 *The Darwaza Gas Crater, famously known as the "Door to Hell," is a surreal, perpetually flaming chasm in the heart of Turkmenistan’s Karakum Desert. Created by a Soviet drilling accident in 1971, engineers set the escaping methane gas alight, expecting it to burn out in weeks; instead, it has roared with an eternal, golden fury for over fifty years.*
 
-<img src="assets/DoorToHell.jpg" width="800" align = "center">
-
 ## Project Overview
 Wild Horizons is a minimalist yet powerful REST-style API that lets you discover some of the world's most unusual, breathtaking, and mysterious destinations. From glowing caves to forbidden islands, this API is designed for exploration, curiosity, and storytelling. Built using pure Node.js (no frameworks) to showcase strong fundamentals and clean architecture. Instead of generic tourist data, this API focuses on:
 * hidden gems 
@@ -239,8 +237,16 @@ This makes it easy to:
 * Smarter filtering (multiple values, ranges)
 
 ## Screenshots/Demo
-1. ![Door To Hell,Darvaza,Turkmenistan](assets/DoorToHell.jpg)
-*The Darwaza Gas Crater, famously known as the "Door to Hell*
+```bash
+GET /localhost:8000/api
+```
+<img src="assets/localhost_8000_api.png" width="800">
+
+```bash
+GET /localhost:8000/api/kdkj
+```
+<img src="assets/localhost_8000_api_kdkj.png" width="800">
+
 
 
 
